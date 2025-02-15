@@ -1,4 +1,4 @@
-# ZBE---Zonas-de-bajas-emisiones-Espa-a
+# ZBE Zonas de bajas emisiones España
 Proyecto libre para mostrar las zonas de bajas emisiones de las principales ciudades de España.
 
 Este proyecto es para aprender a desarrollar en Kotlin Multiplatform, usando el SDK de MapBox.
